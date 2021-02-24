@@ -25,7 +25,7 @@ interests:
 education:
   courses:
   - course: PhD in Theoretical Computational Neuroscience
-    institution: Institute of Neuroinformatics, Univeristy of Zurich, Switzerland
+    institution: Institute of Neuroinformatics, University of Zurich, Switzerland
     year: 2018
   - course: MSc in Physics
     institution: Ruprecht Karl University of Heidelberg, Germany
