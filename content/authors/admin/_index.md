@@ -18,13 +18,13 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
 - Computational Neuroscience
+- Artificial Intelligence
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Theoretical Computational Neuroscience
+  - course: PhD in Computational Neuroscience
     institution: Institute of Neuroinformatics, University of Zurich, Switzerland
     year: 2018
   - course: MSc in Physics
