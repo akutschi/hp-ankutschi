@@ -69,6 +69,7 @@ email: ""
 highlight_name: false
 ---
 
-Coming soon...
+I'm interested in understanding information processing in the brain based on dynamical sensory input, and how it generates behavior to suitably react to its changing environment. I am using dynamical Bayesian inference, formally referred to as nonlinear filtering, as an overarching framework to address questions ranging from perception to spatial navigation. This theory provides a normative perspective, and I am interesting in finding out how much of this normative framework is actually implemented in the brain and used in everyday behavior.
+Before joining the Drugowitsch lab at Harvard Medical School as a postdoc in 2019, I did my PhD with Jean-Pascal Pfister at the University of Zurich, focussing on the mathematical theory of nonlinear filtering and applying these to problems arising in neuroscience.
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
